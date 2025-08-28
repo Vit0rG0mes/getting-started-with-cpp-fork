@@ -20,3 +20,13 @@ It is worth mentioning that the procedures described are based on the G++ compil
 
 ## Good coding!
 
+## Resultados Obtidos ao executar o arquivo application.o
+
+Ao executar o arquivo, e fornecer a entrada do valor **8** no terminal, se obteve a saída: **16**
+
+![Print de execução](prints/execucao.png)
+
+---
+
+**Nome:** Vitor Manuel Gomes Vasconcelos
+**Matrícula:** 539786
